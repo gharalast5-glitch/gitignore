@@ -1,4 +1,5 @@
-name: Stale
+name: Stale concurrency:
+  
 
 # **What it does**: Close pull requests after no updates for 180 days.
 # **Why we have it**: This repository gets a lot of PRs, and the maintainers team is small.
